@@ -1,0 +1,85 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans:ital,wght@0,400;0,700;1,400;1,700&display=swap');
+.box{
+    display: flex;
+    flex-direction: row;
+    border-style: solid;
+    text-indent: 80px;
+    background-color: rgb(212, 186, 40);
+    font-family: 'Noto Sans', sans-serif;
+}
+.fr{
+    border-style: solid;
+
+    text-align: center;
+}
+.fr a:hover{
+    background: blue;
+    border-radius: 50px;
+}
+.er{
+    
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    text-indent: 30px;
+    
+}
+.er a{
+    color: rgb(170, 167, 0);
+}
+ .sw {
+    opacity: 0.5;
+    margin-top: 70px;
+    display: flex;
+    flex-direction: row;
+  }
+  
+  .sw:hover {
+    opacity: 1.0;
+  }
+  a:link{
+      text-decoration: none;
+  }
+  .qa{
+      margin-top: 50px;
+  }
+  .et{
+     
+     display: flex;
+     flex-direction: column;
+    
+    
+}
+.we{
+    opacity: 0.5;
+    display: flex;
+    flex-direction: row;
+}
+.we:hover{
+    opacity: 1.0;
+}
+.vc{
+    opacity: 0.5;
+    display: flex;
+    flex-direction: row;
+    margin-top: 100px;
+}
+.vc:hover{
+    opacity: 1.0;
+}
+.po{
+    display: flex;
+    justify-content: center;
+}
+.LP{
+    display: flex;
+    justify-content: center;
+}
+
+.h4 a{
+    color: black;
+}
+.h2 a:hover{
+  color: blue;
+}

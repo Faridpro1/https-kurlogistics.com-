@@ -1,0 +1,102 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Serif:wght@200&family=Roboto:wght@400;700&display=swap');
+
+.box{
+    display: flex;
+    flex-direction: row;
+    border-style: solid;
+    text-indent: 80px;
+    background-color: rgb(212, 186, 40);
+    font-family: 'Roboto', sans-serif;
+font-family: 'Roboto Serif', sans-serif;
+}
+.fr{
+    border-style: solid;
+    background-color: aqua;
+    text-align: center;
+}
+.fr a:hover{
+    background: blue;
+    border-radius: 50px;
+}
+.er{
+    
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    text-indent: 30px;
+    
+}
+.er a{
+    color: rgb(170, 167, 0);
+}
+.er a:hover{
+    color: blue;
+}
+ .sw {
+    opacity: 0.5;
+    margin-top: 70px;
+    display: flex;
+    flex-direction: row;
+  }
+  
+  .sw:hover {
+    opacity: 1.0;
+  }
+  a:link{
+      text-decoration: none;
+  }
+  .qa{
+      margin-top: 50px;
+  }
+  .et{
+      background-color: rgb(0, 195, 255);
+     
+     display: flex;
+     flex-direction: column;
+    
+      height: 1400px;
+}
+.we{
+    opacity: 0.5;
+    display: flex;
+    flex-direction: row;
+}
+.we:hover{
+    opacity: 1.0;
+}
+.vc{
+    opacity: 0.5;
+    display: flex;
+    flex-direction: row;
+    margin-top: 100px;
+}
+.vc:hover{
+    opacity: 1.0;
+}
+.po{
+    display: flex;
+    justify-content: center;
+}
+.LP{
+    display: flex;
+    justify-content: center;
+}
+
+.nm{
+    transform: translateY(20%);
+    position: absolute;
+    top: 50px;
+    margin-top: 200px;
+    margin-left: 900px;
+}
+.bn{
+    transform: translateX(1%);
+   
+}
+.air{
+    transform: translateX(90%);
+    position: absolute;
+    bottom: 10px;
+    margin-left: 60px;
+}
